@@ -2,7 +2,7 @@
 The point of this program is to draw a 3D hemisphere; to rotate it and then project that.
 
 I think this project could help beginners because this is where the elementary formulas are used.
-The principle of projection consists in pretending to be looking at an object through a (transparent) film (layer or window). The eye sees what arrives on the window. This is illustrated in the uploaded images, I am using a 3D online tool from Matheretter.de.
+The principle of projection consists in pretending to be looking at an object through a (transparent) film (layer or window). The eye sees what arrives on the window. This is illustrated in the uploaded images where I am using a 3D online tool from Matheretter.de.
 
 You can zoom by increasing the camera position or decreasing the window position. If it happens that the window is too low, i.e. part of the object is behind the window, this part will not be drawn.
 
